@@ -1,27 +1,20 @@
-Step 11: Getting user input for prediction...
+<h1 align="center">Hi 👋, I'm Poojitha Valli Pogaku</h1>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
 
-Enter weather conditions to predict rainfall:
-Enter Minimum Temperature (°C):  10
-Enter Maximum Temperature (°C):  30
-Enter Humidity at 9 AM (%):  50
-Enter Humidity at 3 PM (%):  40
-Enter Rainfall (mm):  80
-Enter Wind Speed at 9 AM (km/h):  30
-Enter Wind Speed at 3 PM (km/h):  40
-Intercept (w0): [-1.66471771]
-Coefficients (w1, w2, ...): [[ 0.17599923 -0.04803262  0.06705663  1.21325273  0.29723651  0.15227629
-   0.12650787]]
-Intercept (w0): [-1.66471771]
-Coefficients (w1, w2, ...): [[ 0.17599923 -0.04803262  0.06705663  1.21325273  0.29723651  0.15227629
-   0.12650787]]
+- 🌱 I’m currently learning **Machine Learning**
 
-Weather conditions:
-- Minimum temperature: 10.0°C
-- Maximum temperature: 30.0°C
-- Humidity at 9 AM: 50.0%
-- Humidity at 3 PM: 40.0%
-- Rainfall: 80.0 mm
-- Wind speed at 9 AM: 30.0 km/h
-- Wind speed at 3 PM: 40.0 km/h
+- 💬 Ask me about **Java, Python, SQL, FrontEnd**
 
-Will it rain tomorrow? Yes (Confidence: 69.23%)
+- 📫 How to reach me **poojithavallippv@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/poojithappv2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojithappv2205" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojithavalli22&show_icons=true&locale=en&layout=compact" alt="poojithavalli22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojithavalli22&" alt="poojithavalli22" /></p>
